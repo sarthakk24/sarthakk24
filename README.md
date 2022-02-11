@@ -52,4 +52,4 @@
 
 <br>
 
-[![sarthak's github activity graph](https://activity-graph.herokuapp.com/graph?username=sarthakk24&cotton_candy)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![sarthak's github activity graph](https://activity-graph.herokuapp.com/graph?username=sarthakk24&cotton_candy)](https://github.com/sarthakk24)
