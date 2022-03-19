@@ -17,7 +17,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/sarthak-sachdeva-748b17222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-sachdeva-748b17222" height="30" width="40" /></a>
-<a href="mailto:sarthak.sachdeva.73@gmail.com?'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="2000_i_k" height="40" width="40" /></fa>
 </a>
 <a href="https://twitter.com/sarthak78780040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthak78780040" height="30" width="40" /></a>
 <a href="https://instagram.com/sarthakk24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthakk24" height="30" width="40" /></a>
