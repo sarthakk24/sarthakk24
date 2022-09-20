@@ -1,18 +1,20 @@
 <h1 align="center">Hi there, I'm Sarthak!!</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F523&duration=4000&center=true&width=500&lines=Software+developer+Intern+at+Techanalogy;Loves+designing+websites+from+scratch+;Technical+member+at+MLSA+Srm;Technical+member+at+Github+Community+srm;Technical+member+at+alexa+developers+srm)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Backend+Intern+at+Cario+Growth+Services;Technical+Team+Lead+at+GCSRM;Technical+Member+at+Alexa+Devs;Technical+Member+at+MLSA+SRM)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **next.Js, C++**
+- 🌱 I’m currently learning **C++ , node.js**
 
-- 👯 I’m looking to collaborate on **react, next and node projects**
+- 👯 I’m looking to collaborate on **react, next.js projects**
 
-- 💬 Ask me about **react, JavaScript, python**
+- 💬 Ask me about **react, JavaScript, python, C, C++**
 
 - 📫 How to reach me **sarthak.sachdeva.73@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yCzZy9UqObOwD1fURBQrCMckQmSf5JIa/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Bcfn4Y-EBEkZp1PSAjzkYepVtmf6VnKe/view?usp=sharing)
 
 <br>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ox189d5c0w1mssnvje6ylr23a&cover_image=true&theme=novatorem&bar_color=b14e4e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
