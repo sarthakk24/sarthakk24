@@ -16,6 +16,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ox189d5c0w1mssnvje6ylr23a&cover_image=true&theme=novatorem&bar_color=b14e4e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/453148166548750346)](https://discord.com/users/453148166548750346)
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/sarthak-sachdeva-748b17222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-sachdeva-748b17222" height="30" width="40" /></a>
