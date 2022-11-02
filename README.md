@@ -56,3 +56,6 @@
 <br>
 
 [![sarthak's github activity graph](https://activity-graph.herokuapp.com/graph?username=sarthakk24&cotton_candy)](https://github.com/sarthakk24)
+
+[![@sarthakk24's Holopin board](https://holopin.me/sarthakk24)](https://holopin.io/@sarthakk24)
+
