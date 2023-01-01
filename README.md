@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Backend+Intern+at+Cario+Growth+Services;Technical+Team+Lead+at+GCSRM;Technical+Member+at+Alexa+Devs;Technical+Member+at+MLSA+SRM)](https://git.io/typing-svg)
 
+
 - 🌱 I’m currently learning **C++ , node.js**
 
 - 👯 I’m looking to collaborate on **react, next.js projects**
