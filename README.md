@@ -1,8 +1,5 @@
 <h1 align="center">Hi there, I'm Sarthak!!</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Backend+Intern+at+Cario+Growth+Services;Technical+Team+Lead+at+GCSRM;Technical+Member+at+Alexa+Devs;Technical+Member+at+MLSA+SRM)](https://git.io/typing-svg)
-
-
 - 🌱 I’m currently learning **C++ , node.js**
 
 - 👯 I’m looking to collaborate on **react, next.js projects**
@@ -11,7 +8,7 @@
 
 - 📫 How to reach me **sarthak.sachdeva.73@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Bcfn4Y-EBEkZp1PSAjzkYepVtmf6VnKe/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wGuDEQXCEbExi12dDVNXJQFE7biZBiDH/view?usp=sharing)
 
 <br>
 
